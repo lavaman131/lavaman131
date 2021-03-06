@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate on ... ML projects
 - 🤔 I’m looking for help with ... Convolutional Neural Networks
 - 💬 Ask me about ... ML and Python
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/alexlavaee/)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I play the violin
+- 📫 How to reach me ... [Linkedin](https://www.linkedin.com/in/alexlavaee/)
+- 😄 Pronouns ... He/Him
+- ⚡ Fun fact ... I play the violin
 
 <!--
 **lavaman131/lavaman131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
