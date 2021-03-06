@@ -1,5 +1,6 @@
 ### Hi there! 👋
-![](lavaman131/images/ML.gif)
+
+![](images/ML.gif)
 
 - 🔭 I’m currently ... a student 
 - 🌱 I’m currently learning ... ML and data science in Python
