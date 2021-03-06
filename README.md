@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ... Convolutional Neural Networks
 - 💬 Ask me about ... ML and Python
 - 📫 How to reach me ... [Linkedin](https://www.linkedin.com/in/alexlavaee/)
-- 😄 Pronouns ... He/Him
+- 😄 Pronouns ... he/him
 - ⚡ Fun fact ... I play the violin
 
 <!--
