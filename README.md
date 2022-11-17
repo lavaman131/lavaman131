@@ -11,9 +11,9 @@
 </br>
 
 - 🔭 I’m currently ... a student 
-- 🌱 I’m currently learning ... ML and data science in Python
-- 👯 I’m looking to collaborate on ... ML projects
-- 🤔 I’m looking for help with ... Convolutional Neural Networks
+- 🌱 I’m currently learning ... Rust
+- 👯 I’m looking to collaborate on ... Software Development Projects
+- 🤔 I’m looking for help with ... Graph Algorithms
 - 💬 Ask me about ... ML and Python
 - 😄 Pronouns ... he/him
 - ⚡ Fun fact ... I play the violin 🎻
