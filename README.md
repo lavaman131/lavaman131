@@ -1,5 +1,5 @@
 ### Hi there, I'm Alex! 👋🏼 
-![Website](https://img.shields.io/website?label=Click%20to%20visit%20my%20website&style=flat-square&down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https://lavaman131.github.io/personal-portfolio/)
+[![Website](https://img.shields.io/website?label=Click%20to%20visit%20my%20website&style=flat-square&down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https://lavaman131.github.io/personal-portfolio/)](https://lavaman131.github.io/personal-portfolio/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexlavaee/)
 
 <kbd>
