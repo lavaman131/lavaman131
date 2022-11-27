@@ -1,14 +1,5 @@
 ### Hi there, I'm Alex! 👋🏼 
-[![Website](https://img.shields.io/website?label=Click%20to%20visit%20my%20website&style=for-the-badge&down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https://lavaman131.github.io/personal-portfolio/)](https://lavaman131.github.io/personal-portfolio/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexlavaee/)
-
-<!-- 
-<kbd>
-<img src="images/ML.gif"/>
-</kbd> -->
-
-<!-- <br>
-</br> -->
 
 - 🔭 I’m currently ... a student 
 - 🌱 I’m currently learning ... Rust
