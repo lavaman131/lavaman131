@@ -2,9 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexlavaee/)
 
 - 🔭 I’m currently ... a student 
-- 🌱 I’m currently learning ... Rust
 - 👯 I’m looking to collaborate on ... Software Development Projects
-- 🤔 I’m looking for help with ... Graph Algorithms
 - 💬 Ask me about ... ML and Python
 - 😄 Pronouns ... he/him
 - ⚡ Fun fact ... I play the violin 🎻
