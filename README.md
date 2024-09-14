@@ -1,9 +1,8 @@
 ### Hi there, I'm Alex! 👋🏼 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexlavaee/)
 
-- 🔭 I’m currently ... a student 
-- 👯 I’m looking to collaborate on ... Software Development Projects
-- 💬 Ask me about ... ML and Python
+- 🔭 I’m currently ... an undergrad
+- 💬 Ask me about ... ML 🤖
 - 😄 Pronouns ... he/him
 - ⚡ Fun fact ... I play the violin 🎻
 
