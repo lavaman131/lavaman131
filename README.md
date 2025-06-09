@@ -6,10 +6,7 @@
 - 😄 Pronouns ... he/him
 - ⚡ Fun fact ... I play the violin 🎻
 
-<p>
-<img align="left" height="180em" src="https://github-readme-stats.lavaman131.vercel.app/api?username=lavaman131&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" align="center"/>
-<img align="center" height="180em" src="https://github-readme-stats.lavaman131.vercel.app/api/top-langs/?username=lavaman131&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=jupyter%20notebook" align="center"/>
-</p>
+<img align="center" height="180em" src="https://github-readme-stats.lavaman131.vercel.app/api?username=lavaman131&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true"/>
 
 <!--
 **lavaman131/lavaman131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
